@@ -1,6 +1,6 @@
 # 🛠️ Tech Test Setup Instructions
 
-Welcome! This is the repo for the Boxt React Native technical interview. Please follow the instructions below **before the test begins** to ensure everything is running locally.
+Welcome! This is the repo for the BOXT React Native technical interview. Please follow the instructions below **before the test begins** to ensure everything is running locally.
 
 ---
 
