@@ -1,6 +1,6 @@
 # 🛠️ Tech Test Setup Instructions
 
-Welcome! This is the repo for the BOXT React Native technical interview. Please follow the instructions below **before the test begins** to ensure everything is running locally.
+Welcome! This is the repo for the Zuno React Native technical interview. Please follow the instructions below **before the test begins** to ensure everything is running locally.
 
 ---
 
@@ -18,7 +18,7 @@ If you run into any issues getting set up, feel free to reach out ahead of the c
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/boxt/react-native-tech-test.git
+git clone https://github.com/zuno-tech/react-native-tech-test
 cd react-native-tech-test
 ```
 
@@ -46,9 +46,9 @@ You should see a blank screen that says "Today's jobs"
 
 ---
 
-## 🎨 Theming with Unistyles v2
+## 🎨 Theming with Unistyles v3
 
-This project uses [react-native-unistyles v2](https://v2.unistyl.es/start/introduction/) for theming.
+This project uses [react-native-unistyles v3](https://www.unistyl.es/v3/start/introduction) for theming.
 
 - It’s already fully configured in the repo.
 - You don’t need to be an expert in it.
